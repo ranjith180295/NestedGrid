@@ -9,7 +9,7 @@
   <li *ngFor="let item of items">{{ item }}</li>
 </ul>
 <DrillDownTable [newItems]="currentItem"> </DrillDownTable> -->
-<!-- <p-table [value]="ParentDetails" dataKey="ClntCode" [columns]="ParentHeaders">
+<p-table [value]="ParentDetails" dataKey="ClntCode" [columns]="ParentHeaders">
   <ng-template pTemplate="header" let-ParentColumns>
     <ng-container *ngFor="let col of ParentHeaders; let i = index">
       <th
@@ -70,7 +70,7 @@
                 </th>
               </ng-container>
             </ng-template>
-            <ng-template pTemplate="body" let-SchemeDet let-expanded="expanded">
+            <ng-template pTemplate="body" let-SchemeDet>
               <tr>
                 <td>
                   <button
@@ -168,4 +168,4 @@
       </td>
     </tr>
   </ng-template>
-</p-table> -->
+</p-table>
