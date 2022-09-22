@@ -1,0 +1,171 @@
+<!-- <p>All</p>
+<ItemDetail [ItemDetails]="currentItem"></ItemDetail>
+<hr />
+
+<AddItem (newItemEvent)="addItem($event)" [Newtest]="currentItem"></AddItem>
+<h3>Parent component receiving value via @Output()</h3>
+
+<ul>
+  <li *ngFor="let item of items">{{ item }}</li>
+</ul>
+<DrillDownTable [newItems]="currentItem"> </DrillDownTable> -->
+<!-- <p-table [value]="ParentDetails" dataKey="ClntCode" [columns]="ParentHeaders">
+  <ng-template pTemplate="header" let-ParentColumns>
+    <ng-container *ngFor="let col of ParentHeaders; let i = index">
+      <th
+        [id]="col.columnname"
+        style="font-weight: bold !important"
+        title="col.columnname"
+      >
+        <span>
+          {{ col.header }}
+        </span>
+      </th>
+    </ng-container>
+  </ng-template>
+  <ng-template pTemplate="body" let-product let-expanded="expanded">
+    <tr>
+      <ng-container *ngFor="let col of columns"> </ng-container>
+    </tr>
+    <tr>
+      <td>
+        <button
+          type="button"
+          pButton
+          pRipple
+          [pRowToggler]="product"
+          class="p-button-text p-button-rounded p-button-plain"
+          [icon]="expanded ? 'pi pi-chevron-down' : 'pi pi-chevron-right'"
+        ></button>
+      </td>
+      <td>{{ product.Clientname }}</td>
+      <td>{{ product.Folio }}</td>
+      <td>{{ product.PurchasedVale | currency: 'INR' }}</td>
+      <td>{{ product.CurrentValue | currency: 'INR' }}</td>
+      <td>{{ product.GainLoss }}</td>
+      <td>{{ product.GainLoss_Per }}</td>
+      <td>{{ product.Portfolio }}</td>
+      <td><button>Transact</button></td>
+    </tr>
+  </ng-template>
+  <ng-template pTemplate="rowexpansion" let-SchemeDet>
+    <tr>
+      <td colspan="12">
+        <div class="p-p-3">
+          <p-table
+            [value]="SchemeDet.SchemeDetails"
+            dataKey="StockCode"
+            [columns]="SubParentHeaders"
+          >
+            <ng-template pTemplate="header">
+              <ng-container *ngFor="let col of SubParentHeaders; let i = index">
+                <th
+                  [id]="col.columnname"
+                  style="font-weight: bold !important"
+                  title="col.columnname"
+                >
+                  <span>
+                    {{ col.header }}
+                  </span>
+                </th>
+              </ng-container>
+            </ng-template>
+            <ng-template pTemplate="body" let-SchemeDet let-expanded="expanded">
+              <tr>
+                <td>
+                  <button
+                    type="button"
+                    pButton
+                    pRipple
+                    [pRowToggler]="SchemeDet"
+                    class="p-button-text p-button-rounded p-button-plain"
+                    [icon]="expanded ? 'pi pi-minus' : 'pi pi-plus'"
+                  ></button>
+                  <span>{{ SchemeDet.SchemeName }}</span>
+                </td>
+                <td>{{ SchemeDet.Folio }}</td>
+                <td>{{ SchemeDet.Qty_Units }}</td>
+                <td>
+                  <tr>
+                    <td>{{ SchemeDet.Value | currency: 'INR' }}</td>
+                  </tr>
+                  <tr>
+                    <td>{{ SchemeDet.Rate | currency: 'INR' }}</td>
+                  </tr>
+                </td>
+                <td>
+                  <tr>
+                    <td>{{ SchemeDet.MktVal | currency: 'INR' }}</td>
+                  </tr>
+                  <tr>
+                    <td>{{ SchemeDet.MktRate | currency: 'INR' }}</td>
+                  </tr>
+                </td>
+                <td>
+                  {{ SchemeDet.PortFolio_Per }}
+                </td>
+                <td>-</td>
+              </tr>
+            </ng-template>
+            <ng-template pTemplate="rowexpansion" let-ChildDetails>
+              <tr>
+                <td colspan="9">
+                  <div class="p-p-3">
+                    <p-table [value]="ChildDetails.SubDetails" dataKey="IIN">
+                      <ng-template pTemplate="body" let-ChildDetails>
+                        <tr>
+                          <td>
+                            <tr>
+                              <td>
+                                {{ ChildDetails.ClntName }}
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>
+                                {{ ChildDetails.IIN }}
+                              </td>
+                            </tr>
+                          </td>
+                          <td>{{ ChildDetails.Folio }}</td>
+                          <td>{{ ChildDetails.Qty }}</td>
+                          <td>
+                            <tr>
+                              <td>
+                                {{ ChildDetails.Value | currency: 'INR' }}
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>{{ ChildDetails.Rate | currency: 'INR' }}</td>
+                            </tr>
+                          </td>
+                          <td>
+                            <tr>
+                              <td>
+                                {{ ChildDetails.MktVal | currency: 'INR' }}
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>
+                                {{ ChildDetails.MktRate | currency: 'INR' }}
+                              </td>
+                            </tr>
+                          </td>
+                          <td>
+                            {{ ChildDetails.PortFolio_Per }}
+                          </td>
+                          <td>
+                            <button>Transact</button>
+                          </td>
+                        </tr>
+                      </ng-template>
+                    </p-table>
+                  </div>
+                </td>
+              </tr>
+            </ng-template>
+          </p-table>
+        </div>
+      </td>
+    </tr>
+  </ng-template>
+</p-table> -->

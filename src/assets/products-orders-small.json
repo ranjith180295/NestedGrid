@@ -1,0 +1,1282 @@
+{
+  "data": [
+    {
+      "ClntCode": "P1000",
+      "Clientname": "Rajesh",
+      "Folio": "10199981975",
+      "PurchasedVale": 5403243.74,
+      "CurrentValue": 8056614.77,
+      "GainLoss": 8056614.77,
+      "GainLoss_Per": 49.11,
+      "Portfolio": 13.61,
+      "button": "",
+      "SchemeDetails": [
+        {
+          "StockCode": 12345,
+          "SchemeName": "Aditya Birla Balanced",
+          "Folio": "-",
+          "Qty_Units": "34930.84",
+          "Value": 25000,
+          "Rate": 71.57,
+          "MktVal": 2410749.25,
+          "MktRate": 71.84,
+          "PortFolio_Per": 4.1,
+          "Actions": "",
+          "SubDetails": [
+            {
+              "ClntName": "Anvit Mandar Rahul",
+              "IIN": "5011221066 | Single",
+              "Folio": "1019981975",
+              "Qty": 1290.08,
+              "Value": 600000,
+              "Rate": 46.51,
+              "MktVal": 115839.74,
+              "MktRate": 82.92,
+              "PortFolio_Per": 1.01,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Rajkumar Individual",
+              "IIN": "5011221066 | Single",
+              "Folio": "22204206",
+              "Qty": 5553.72,
+              "Value": 277947.08,
+              "Rate": 50.06,
+              "MktVal": 498681.58,
+              "MktRate": 89.79,
+              "PortFolio_Per": 0.81,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Yadnya Mandar Bagul",
+              "IIN": "5011221066 | Single",
+              "Folio": "29981922",
+              "Qty": 25821.95,
+              "Value": 50786113.13,
+              "Rate": 196.67,
+              "MktVal": 5167230.4244,
+              "MktRate": 200.14,
+              "PortFolio_Per": 0.41,
+              "Actions": ""
+            }
+          ]
+        },
+        {
+          "StockCode": 123,
+          "SchemeName": "Aditya Birla Balanced SunLife",
+          "Folio": "-",
+          "Qty_Units": "221.84",
+          "Value": 2121,
+          "Rate": 212.57,
+          "MktVal": 21212.25,
+          "MktRate": 3232.84,
+          "PortFolio_Per": 2.13,
+          "Actions": "",
+          "SubDetails": [
+            {
+              "ClntName": "Anvit Mandar Rahul",
+              "IIN": "5011221066 | Single",
+              "Folio": "1019981975",
+              "Qty": 1290.08,
+              "Value": 600000,
+              "Rate": 46.51,
+              "MktVal": 115839.74,
+              "MktRate": 82.92,
+              "PortFolio_Per": 1.01,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Rajkumar Individual",
+              "IIN": "5011221066 | Single",
+              "Folio": "22204206",
+              "Qty": 5553.72,
+              "Value": 277947.08,
+              "Rate": 50.06,
+              "MktVal": 498681.58,
+              "MktRate": 89.79,
+              "PortFolio_Per": 0.81,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Yadnya Mandar Bagul",
+              "IIN": "5011221066 | Single",
+              "Folio": "29981922",
+              "Qty": 25821.95,
+              "Value": 50786113.13,
+              "Rate": 196.67,
+              "MktVal": 5167230.4244,
+              "MktRate": 200.14,
+              "PortFolio_Per": 0.41,
+              "Actions": ""
+            }
+          ]
+        },
+        {
+          "StockCode": 1123,
+          "SchemeName": "Birla Balanced",
+          "Folio": "-",
+          "Qty_Units": "33213.84",
+          "Value": 45678,
+          "Rate": 87.57,
+          "MktVal": 2410749.25,
+          "MktRate": 71.84,
+          "PortFolio_Per": 4.1,
+          "Actions": "",
+          "SubDetails": [
+            {
+              "ClntName": "Anvit Mandar Rahul",
+              "IIN": "5011221066 | Single",
+              "Folio": "1019981975",
+              "Qty": 1290.08,
+              "Value": 600000,
+              "Rate": 46.51,
+              "MktVal": 115839.74,
+              "MktRate": 82.92,
+              "PortFolio_Per": 1.01,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Rajkumar Individual",
+              "IIN": "5011221066 | Single",
+              "Folio": "22204206",
+              "Qty": 5553.72,
+              "Value": 277947.08,
+              "Rate": 50.06,
+              "MktVal": 498681.58,
+              "MktRate": 89.79,
+              "PortFolio_Per": 0.81,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Yadnya Mandar Bagul",
+              "IIN": "5011221066 | Single",
+              "Folio": "29981922",
+              "Qty": 25821.95,
+              "Value": 50786113.13,
+              "Rate": 196.67,
+              "MktVal": 5167230.4244,
+              "MktRate": 200.14,
+              "PortFolio_Per": 0.41,
+              "Actions": ""
+            }
+          ]
+        },
+        {
+          "StockCode": 5645,
+          "SchemeName": "Raj Birla Balanced",
+          "Folio": "-",
+          "Qty_Units": "231323.84",
+          "Value": 14563,
+          "Rate": 145.57,
+          "MktVal": 5679.25,
+          "MktRate": 71.84,
+          "PortFolio_Per": 12.1,
+          "Actions": "",
+          "SubDetails": [
+            {
+              "ClntName": "Anvit Mandar Rahul",
+              "IIN": "5011221066 | Single",
+              "Folio": "1019981975",
+              "Qty": 1290.08,
+              "Value": 600000,
+              "Rate": 46.51,
+              "MktVal": 115839.74,
+              "MktRate": 82.92,
+              "PortFolio_Per": 1.01,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Rajkumar Individual",
+              "IIN": "5011221066 | Single",
+              "Folio": "22204206",
+              "Qty": 5553.72,
+              "Value": 277947.08,
+              "Rate": 50.06,
+              "MktVal": 498681.58,
+              "MktRate": 89.79,
+              "PortFolio_Per": 0.81,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Yadnya Mandar Bagul",
+              "IIN": "5011221066 | Single",
+              "Folio": "29981922",
+              "Qty": 25821.95,
+              "Value": 50786113.13,
+              "Rate": 196.67,
+              "MktVal": 5167230.4244,
+              "MktRate": 200.14,
+              "PortFolio_Per": 0.41,
+              "Actions": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ClntCode": "P1001",
+      "Clientname": "Ram",
+      "Folio": "5443234223",
+      "PurchasedVale": 5403243.74,
+      "CurrentValue": 8056614.77,
+      "GainLoss": 8056614.77,
+      "GainLoss_Per": 49.11,
+      "Portfolio": 7.55,
+      "button": "",
+      "SchemeDetails": [
+        {
+          "StockCode": 12345,
+          "SchemeName": "Aditya Birla Balanced",
+          "Folio": "-",
+          "Qty_Units": "34930.84",
+          "Value": 25000,
+          "Rate": 71.57,
+          "MktVal": 2410749.25,
+          "MktRate": 71.84,
+          "PortFolio_Per": 4.1,
+          "Actions": "",
+          "SubDetails": [
+            {
+              "ClntName": "Anvit Mandar Rahul",
+              "IIN": "5011221066 | Single",
+              "Folio": "1019981975",
+              "Qty": 1290.08,
+              "Value": 600000,
+              "Rate": 46.51,
+              "MktVal": 115839.74,
+              "MktRate": 82.92,
+              "PortFolio_Per": 1.01,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Rajkumar Individual",
+              "IIN": "5011221066 | Single",
+              "Folio": "22204206",
+              "Qty": 5553.72,
+              "Value": 277947.08,
+              "Rate": 50.06,
+              "MktVal": 498681.58,
+              "MktRate": 89.79,
+              "PortFolio_Per": 0.81,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Yadnya Mandar Bagul",
+              "IIN": "5011221066 | Single",
+              "Folio": "29981922",
+              "Qty": 25821.95,
+              "Value": 50786113.13,
+              "Rate": 196.67,
+              "MktVal": 5167230.4244,
+              "MktRate": 200.14,
+              "PortFolio_Per": 0.41,
+              "Actions": ""
+            }
+          ]
+        },
+        {
+          "StockCode": 123,
+          "SchemeName": "Aditya Birla Balanced SunLife",
+          "Folio": "-",
+          "Qty_Units": "221.84",
+          "Value": 2121,
+          "Rate": 212.57,
+          "MktVal": 21212.25,
+          "MktRate": 3232.84,
+          "PortFolio_Per": 2.13,
+          "Actions": "",
+          "SubDetails": [
+            {
+              "ClntName": "Anvit Mandar Rahul",
+              "IIN": "5011221066 | Single",
+              "Folio": "1019981975",
+              "Qty": 1290.08,
+              "Value": 600000,
+              "Rate": 46.51,
+              "MktVal": 115839.74,
+              "MktRate": 82.92,
+              "PortFolio_Per": 1.01,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Rajkumar Individual",
+              "IIN": "5011221066 | Single",
+              "Folio": "22204206",
+              "Qty": 5553.72,
+              "Value": 277947.08,
+              "Rate": 50.06,
+              "MktVal": 498681.58,
+              "MktRate": 89.79,
+              "PortFolio_Per": 0.81,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Yadnya Mandar Bagul",
+              "IIN": "5011221066 | Single",
+              "Folio": "29981922",
+              "Qty": 25821.95,
+              "Value": 50786113.13,
+              "Rate": 196.67,
+              "MktVal": 5167230.4244,
+              "MktRate": 200.14,
+              "PortFolio_Per": 0.41,
+              "Actions": ""
+            }
+          ]
+        },
+        {
+          "StockCode": 1123,
+          "SchemeName": "Birla Balanced",
+          "Folio": "-",
+          "Qty_Units": "33213.84",
+          "Value": 45678,
+          "Rate": 87.57,
+          "MktVal": 2410749.25,
+          "MktRate": 71.84,
+          "PortFolio_Per": 4.1,
+          "Actions": "",
+          "SubDetails": [
+            {
+              "ClntName": "Anvit Mandar Rahul",
+              "IIN": "5011221066 | Single",
+              "Folio": "1019981975",
+              "Qty": 1290.08,
+              "Value": 600000,
+              "Rate": 46.51,
+              "MktVal": 115839.74,
+              "MktRate": 82.92,
+              "PortFolio_Per": 1.01,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Rajkumar Individual",
+              "IIN": "5011221066 | Single",
+              "Folio": "22204206",
+              "Qty": 5553.72,
+              "Value": 277947.08,
+              "Rate": 50.06,
+              "MktVal": 498681.58,
+              "MktRate": 89.79,
+              "PortFolio_Per": 0.81,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Yadnya Mandar Bagul",
+              "IIN": "5011221066 | Single",
+              "Folio": "29981922",
+              "Qty": 25821.95,
+              "Value": 50786113.13,
+              "Rate": 196.67,
+              "MktVal": 5167230.4244,
+              "MktRate": 200.14,
+              "PortFolio_Per": 0.41,
+              "Actions": ""
+            }
+          ]
+        },
+        {
+          "StockCode": 5645,
+          "SchemeName": "Raj Birla Balanced",
+          "Folio": "-",
+          "Qty_Units": "231323.84",
+          "Value": 14563,
+          "Rate": 145.57,
+          "MktVal": 5679.25,
+          "MktRate": 71.84,
+          "PortFolio_Per": 12.1,
+          "Actions": "",
+          "SubDetails": [
+            {
+              "ClntName": "Anvit Mandar Rahul",
+              "IIN": "5011221066 | Single",
+              "Folio": "1019981975",
+              "Qty": 1290.08,
+              "Value": 600000,
+              "Rate": 46.51,
+              "MktVal": 115839.74,
+              "MktRate": 82.92,
+              "PortFolio_Per": 1.01,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Rajkumar Individual",
+              "IIN": "5011221066 | Single",
+              "Folio": "22204206",
+              "Qty": 5553.72,
+              "Value": 277947.08,
+              "Rate": 50.06,
+              "MktVal": 498681.58,
+              "MktRate": 89.79,
+              "PortFolio_Per": 0.81,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Yadnya Mandar Bagul",
+              "IIN": "5011221066 | Single",
+              "Folio": "29981922",
+              "Qty": 25821.95,
+              "Value": 50786113.13,
+              "Rate": 196.67,
+              "MktVal": 5167230.4244,
+              "MktRate": 200.14,
+              "PortFolio_Per": 0.41,
+              "Actions": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ClntCode": "P1002",
+      "Clientname": "Arun",
+      "Folio": "123123562",
+      "PurchasedVale": 5403243.74,
+      "CurrentValue": 8056614.77,
+      "GainLoss": 8056614.77,
+      "GainLoss_Per": 49.11,
+      "Portfolio": 15.61,
+      "button": "",
+      "SchemeDetails": [
+        {
+          "StockCode": 12345,
+          "SchemeName": "Aditya Birla Balanced",
+          "Folio": "-",
+          "Qty_Units": "34930.84",
+          "Value": 25000,
+          "Rate": 71.57,
+          "MktVal": 2410749.25,
+          "MktRate": 71.84,
+          "PortFolio_Per": 4.1,
+          "Actions": "",
+          "SubDetails": [
+            {
+              "ClntName": "Anvit Mandar Rahul",
+              "IIN": "5011221066 | Single",
+              "Folio": "1019981975",
+              "Qty": 1290.08,
+              "Value": 600000,
+              "Rate": 46.51,
+              "MktVal": 115839.74,
+              "MktRate": 82.92,
+              "PortFolio_Per": 1.01,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Rajkumar Individual",
+              "IIN": "5011221066 | Single",
+              "Folio": "22204206",
+              "Qty": 5553.72,
+              "Value": 277947.08,
+              "Rate": 50.06,
+              "MktVal": 498681.58,
+              "MktRate": 89.79,
+              "PortFolio_Per": 0.81,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Yadnya Mandar Bagul",
+              "IIN": "5011221066 | Single",
+              "Folio": "29981922",
+              "Qty": 25821.95,
+              "Value": 50786113.13,
+              "Rate": 196.67,
+              "MktVal": 5167230.4244,
+              "MktRate": 200.14,
+              "PortFolio_Per": 0.41,
+              "Actions": ""
+            }
+          ]
+        },
+        {
+          "StockCode": 123,
+          "SchemeName": "Aditya Birla Balanced SunLife",
+          "Folio": "-",
+          "Qty_Units": "221.84",
+          "Value": 2121,
+          "Rate": 212.57,
+          "MktVal": 21212.25,
+          "MktRate": 3232.84,
+          "PortFolio_Per": 2.13,
+          "Actions": "",
+          "SubDetails": [
+            {
+              "ClntName": "Anvit Mandar Rahul",
+              "IIN": "5011221066 | Single",
+              "Folio": "1019981975",
+              "Qty": 1290.08,
+              "Value": 600000,
+              "Rate": 46.51,
+              "MktVal": 115839.74,
+              "MktRate": 82.92,
+              "PortFolio_Per": 1.01,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Rajkumar Individual",
+              "IIN": "5011221066 | Single",
+              "Folio": "22204206",
+              "Qty": 5553.72,
+              "Value": 277947.08,
+              "Rate": 50.06,
+              "MktVal": 498681.58,
+              "MktRate": 89.79,
+              "PortFolio_Per": 0.81,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Yadnya Mandar Bagul",
+              "IIN": "5011221066 | Single",
+              "Folio": "29981922",
+              "Qty": 25821.95,
+              "Value": 50786113.13,
+              "Rate": 196.67,
+              "MktVal": 5167230.4244,
+              "MktRate": 200.14,
+              "PortFolio_Per": 0.41,
+              "Actions": ""
+            }
+          ]
+        },
+        {
+          "StockCode": 1123,
+          "SchemeName": "Birla Balanced",
+          "Folio": "-",
+          "Qty_Units": "33213.84",
+          "Value": 45678,
+          "Rate": 87.57,
+          "MktVal": 2410749.25,
+          "MktRate": 71.84,
+          "PortFolio_Per": 4.1,
+          "Actions": "",
+          "SubDetails": [
+            {
+              "ClntName": "Anvit Mandar Rahul",
+              "IIN": "5011221066 | Single",
+              "Folio": "1019981975",
+              "Qty": 1290.08,
+              "Value": 600000,
+              "Rate": 46.51,
+              "MktVal": 115839.74,
+              "MktRate": 82.92,
+              "PortFolio_Per": 1.01,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Rajkumar Individual",
+              "IIN": "5011221066 | Single",
+              "Folio": "22204206",
+              "Qty": 5553.72,
+              "Value": 277947.08,
+              "Rate": 50.06,
+              "MktVal": 498681.58,
+              "MktRate": 89.79,
+              "PortFolio_Per": 0.81,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Yadnya Mandar Bagul",
+              "IIN": "5011221066 | Single",
+              "Folio": "29981922",
+              "Qty": 25821.95,
+              "Value": 50786113.13,
+              "Rate": 196.67,
+              "MktVal": 5167230.4244,
+              "MktRate": 200.14,
+              "PortFolio_Per": 0.41,
+              "Actions": ""
+            }
+          ]
+        },
+        {
+          "StockCode": 5645,
+          "SchemeName": "Raj Birla Balanced",
+          "Folio": "-",
+          "Qty_Units": "231323.84",
+          "Value": 14563,
+          "Rate": 145.57,
+          "MktVal": 5679.25,
+          "MktRate": 71.84,
+          "PortFolio_Per": 12.1,
+          "Actions": "",
+          "SubDetails": [
+            {
+              "ClntName": "Anvit Mandar Rahul",
+              "IIN": "5011221066 | Single",
+              "Folio": "1019981975",
+              "Qty": 1290.08,
+              "Value": 600000,
+              "Rate": 46.51,
+              "MktVal": 115839.74,
+              "MktRate": 82.92,
+              "PortFolio_Per": 1.01,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Rajkumar Individual",
+              "IIN": "5011221066 | Single",
+              "Folio": "22204206",
+              "Qty": 5553.72,
+              "Value": 277947.08,
+              "Rate": 50.06,
+              "MktVal": 498681.58,
+              "MktRate": 89.79,
+              "PortFolio_Per": 0.81,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Yadnya Mandar Bagul",
+              "IIN": "5011221066 | Single",
+              "Folio": "29981922",
+              "Qty": 25821.95,
+              "Value": 50786113.13,
+              "Rate": 196.67,
+              "MktVal": 5167230.4244,
+              "MktRate": 200.14,
+              "PortFolio_Per": 0.41,
+              "Actions": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ClntCode": "P1003",
+      "Clientname": "Anil",
+      "Folio": "897889676",
+      "PurchasedVale": 5403243.74,
+      "CurrentValue": 8056614.77,
+      "GainLoss": 8056614.77,
+      "GainLoss_Per": 49.11,
+      "Portfolio": 18.61,
+      "button": "",
+      "SchemeDetails": [
+        {
+          "StockCode": 12345,
+          "SchemeName": "Aditya Birla Balanced",
+          "Folio": "-",
+          "Qty_Units": "34930.84",
+          "Value": 25000,
+          "Rate": 71.57,
+          "MktVal": 2410749.25,
+          "MktRate": 71.84,
+          "PortFolio_Per": 4.1,
+          "Actions": "",
+          "SubDetails": [
+            {
+              "ClntName": "Anvit Mandar Rahul",
+              "IIN": "5011221066 | Single",
+              "Folio": "1019981975",
+              "Qty": 1290.08,
+              "Value": 600000,
+              "Rate": 46.51,
+              "MktVal": 115839.74,
+              "MktRate": 82.92,
+              "PortFolio_Per": 1.01,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Rajkumar Individual",
+              "IIN": "5011221066 | Single",
+              "Folio": "22204206",
+              "Qty": 5553.72,
+              "Value": 277947.08,
+              "Rate": 50.06,
+              "MktVal": 498681.58,
+              "MktRate": 89.79,
+              "PortFolio_Per": 0.81,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Yadnya Mandar Bagul",
+              "IIN": "5011221066 | Single",
+              "Folio": "29981922",
+              "Qty": 25821.95,
+              "Value": 50786113.13,
+              "Rate": 196.67,
+              "MktVal": 5167230.4244,
+              "MktRate": 200.14,
+              "PortFolio_Per": 0.41,
+              "Actions": ""
+            }
+          ]
+        },
+        {
+          "StockCode": 123,
+          "SchemeName": "Aditya Birla Balanced SunLife",
+          "Folio": "-",
+          "Qty_Units": "221.84",
+          "Value": 2121,
+          "Rate": 212.57,
+          "MktVal": 21212.25,
+          "MktRate": 3232.84,
+          "PortFolio_Per": 2.13,
+          "Actions": "",
+          "SubDetails": [
+            {
+              "ClntName": "Anvit Mandar Rahul",
+              "IIN": "5011221066 | Single",
+              "Folio": "1019981975",
+              "Qty": 1290.08,
+              "Value": 600000,
+              "Rate": 46.51,
+              "MktVal": 115839.74,
+              "MktRate": 82.92,
+              "PortFolio_Per": 1.01,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Rajkumar Individual",
+              "IIN": "5011221066 | Single",
+              "Folio": "22204206",
+              "Qty": 5553.72,
+              "Value": 277947.08,
+              "Rate": 50.06,
+              "MktVal": 498681.58,
+              "MktRate": 89.79,
+              "PortFolio_Per": 0.81,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Yadnya Mandar Bagul",
+              "IIN": "5011221066 | Single",
+              "Folio": "29981922",
+              "Qty": 25821.95,
+              "Value": 50786113.13,
+              "Rate": 196.67,
+              "MktVal": 5167230.4244,
+              "MktRate": 200.14,
+              "PortFolio_Per": 0.41,
+              "Actions": ""
+            }
+          ]
+        },
+        {
+          "StockCode": 1123,
+          "SchemeName": "Birla Balanced",
+          "Folio": "-",
+          "Qty_Units": "33213.84",
+          "Value": 45678,
+          "Rate": 87.57,
+          "MktVal": 2410749.25,
+          "MktRate": 71.84,
+          "PortFolio_Per": 4.1,
+          "Actions": "",
+          "SubDetails": [
+            {
+              "ClntName": "Anvit Mandar Rahul",
+              "IIN": "5011221066 | Single",
+              "Folio": "1019981975",
+              "Qty": 1290.08,
+              "Value": 600000,
+              "Rate": 46.51,
+              "MktVal": 115839.74,
+              "MktRate": 82.92,
+              "PortFolio_Per": 1.01,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Rajkumar Individual",
+              "IIN": "5011221066 | Single",
+              "Folio": "22204206",
+              "Qty": 5553.72,
+              "Value": 277947.08,
+              "Rate": 50.06,
+              "MktVal": 498681.58,
+              "MktRate": 89.79,
+              "PortFolio_Per": 0.81,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Yadnya Mandar Bagul",
+              "IIN": "5011221066 | Single",
+              "Folio": "29981922",
+              "Qty": 25821.95,
+              "Value": 50786113.13,
+              "Rate": 196.67,
+              "MktVal": 5167230.4244,
+              "MktRate": 200.14,
+              "PortFolio_Per": 0.41,
+              "Actions": ""
+            }
+          ]
+        },
+        {
+          "StockCode": 5645,
+          "SchemeName": "Raj Birla Balanced",
+          "Folio": "-",
+          "Qty_Units": "231323.84",
+          "Value": 14563,
+          "Rate": 145.57,
+          "MktVal": 5679.25,
+          "MktRate": 71.84,
+          "PortFolio_Per": 12.1,
+          "Actions": "",
+          "SubDetails": [
+            {
+              "ClntName": "Anvit Mandar Rahul",
+              "IIN": "5011221066 | Single",
+              "Folio": "1019981975",
+              "Qty": 1290.08,
+              "Value": 600000,
+              "Rate": 46.51,
+              "MktVal": 115839.74,
+              "MktRate": 82.92,
+              "PortFolio_Per": 1.01,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Rajkumar Individual",
+              "IIN": "5011221066 | Single",
+              "Folio": "22204206",
+              "Qty": 5553.72,
+              "Value": 277947.08,
+              "Rate": 50.06,
+              "MktVal": 498681.58,
+              "MktRate": 89.79,
+              "PortFolio_Per": 0.81,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Yadnya Mandar Bagul",
+              "IIN": "5011221066 | Single",
+              "Folio": "29981922",
+              "Qty": 25821.95,
+              "Value": 50786113.13,
+              "Rate": 196.67,
+              "MktVal": 5167230.4244,
+              "MktRate": 200.14,
+              "PortFolio_Per": 0.41,
+              "Actions": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ClntCode": "P1004",
+      "Clientname": "Rahul",
+      "Folio": "85751414",
+      "PurchasedVale": 5403243.74,
+      "CurrentValue": 8056614.77,
+      "GainLoss": 8056614.77,
+      "GainLoss_Per": 49.11,
+      "Portfolio": 17.79,
+      "button": "",
+      "SchemeDetails": [
+        {
+          "StockCode": 12345,
+          "SchemeName": "Aditya Birla Balanced",
+          "Folio": "-",
+          "Qty_Units": "34930.84",
+          "Value": 25000,
+          "Rate": 71.57,
+          "MktVal": 2410749.25,
+          "MktRate": 71.84,
+          "PortFolio_Per": 4.1,
+          "Actions": "",
+          "SubDetails": [
+            {
+              "ClntName": "Anvit Mandar Rahul",
+              "IIN": "5011221066 | Single",
+              "Folio": "1019981975",
+              "Qty": 1290.08,
+              "Value": 600000,
+              "Rate": 46.51,
+              "MktVal": 115839.74,
+              "MktRate": 82.92,
+              "PortFolio_Per": 1.01,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Rajkumar Individual",
+              "IIN": "5011221066 | Single",
+              "Folio": "22204206",
+              "Qty": 5553.72,
+              "Value": 277947.08,
+              "Rate": 50.06,
+              "MktVal": 498681.58,
+              "MktRate": 89.79,
+              "PortFolio_Per": 0.81,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Yadnya Mandar Bagul",
+              "IIN": "5011221066 | Single",
+              "Folio": "29981922",
+              "Qty": 25821.95,
+              "Value": 50786113.13,
+              "Rate": 196.67,
+              "MktVal": 5167230.4244,
+              "MktRate": 200.14,
+              "PortFolio_Per": 0.41,
+              "Actions": ""
+            }
+          ]
+        },
+        {
+          "StockCode": 123,
+          "SchemeName": "Aditya Birla Balanced SunLife",
+          "Folio": "-",
+          "Qty_Units": "221.84",
+          "Value": 2121,
+          "Rate": 212.57,
+          "MktVal": 21212.25,
+          "MktRate": 3232.84,
+          "PortFolio_Per": 2.13,
+          "Actions": "",
+          "SubDetails": [
+            {
+              "ClntName": "Anvit Mandar Rahul",
+              "IIN": "5011221066 | Single",
+              "Folio": "1019981975",
+              "Qty": 1290.08,
+              "Value": 600000,
+              "Rate": 46.51,
+              "MktVal": 115839.74,
+              "MktRate": 82.92,
+              "PortFolio_Per": 1.01,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Rajkumar Individual",
+              "IIN": "5011221066 | Single",
+              "Folio": "22204206",
+              "Qty": 5553.72,
+              "Value": 277947.08,
+              "Rate": 50.06,
+              "MktVal": 498681.58,
+              "MktRate": 89.79,
+              "PortFolio_Per": 0.81,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Yadnya Mandar Bagul",
+              "IIN": "5011221066 | Single",
+              "Folio": "29981922",
+              "Qty": 25821.95,
+              "Value": 50786113.13,
+              "Rate": 196.67,
+              "MktVal": 5167230.4244,
+              "MktRate": 200.14,
+              "PortFolio_Per": 0.41,
+              "Actions": ""
+            }
+          ]
+        },
+        {
+          "StockCode": 1123,
+          "SchemeName": "Birla Balanced",
+          "Folio": "-",
+          "Qty_Units": "33213.84",
+          "Value": 45678,
+          "Rate": 87.57,
+          "MktVal": 2410749.25,
+          "MktRate": 71.84,
+          "PortFolio_Per": 4.1,
+          "Actions": "",
+          "SubDetails": [
+            {
+              "ClntName": "Anvit Mandar Rahul",
+              "IIN": "5011221066 | Single",
+              "Folio": "1019981975",
+              "Qty": 1290.08,
+              "Value": 600000,
+              "Rate": 46.51,
+              "MktVal": 115839.74,
+              "MktRate": 82.92,
+              "PortFolio_Per": 1.01,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Rajkumar Individual",
+              "IIN": "5011221066 | Single",
+              "Folio": "22204206",
+              "Qty": 5553.72,
+              "Value": 277947.08,
+              "Rate": 50.06,
+              "MktVal": 498681.58,
+              "MktRate": 89.79,
+              "PortFolio_Per": 0.81,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Yadnya Mandar Bagul",
+              "IIN": "5011221066 | Single",
+              "Folio": "29981922",
+              "Qty": 25821.95,
+              "Value": 50786113.13,
+              "Rate": 196.67,
+              "MktVal": 5167230.4244,
+              "MktRate": 200.14,
+              "PortFolio_Per": 0.41,
+              "Actions": ""
+            }
+          ]
+        },
+        {
+          "StockCode": 5645,
+          "SchemeName": "Raj Birla Balanced",
+          "Folio": "-",
+          "Qty_Units": "231323.84",
+          "Value": 14563,
+          "Rate": 145.57,
+          "MktVal": 5679.25,
+          "MktRate": 71.84,
+          "PortFolio_Per": 12.1,
+          "Actions": "",
+          "SubDetails": [
+            {
+              "ClntName": "Anvit Mandar Rahul",
+              "IIN": "5011221066 | Single",
+              "Folio": "1019981975",
+              "Qty": 1290.08,
+              "Value": 600000,
+              "Rate": 46.51,
+              "MktVal": 115839.74,
+              "MktRate": 82.92,
+              "PortFolio_Per": 1.01,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Rajkumar Individual",
+              "IIN": "5011221066 | Single",
+              "Folio": "22204206",
+              "Qty": 5553.72,
+              "Value": 277947.08,
+              "Rate": 50.06,
+              "MktVal": 498681.58,
+              "MktRate": 89.79,
+              "PortFolio_Per": 0.81,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Yadnya Mandar Bagul",
+              "IIN": "5011221066 | Single",
+              "Folio": "29981922",
+              "Qty": 25821.95,
+              "Value": 50786113.13,
+              "Rate": 196.67,
+              "MktVal": 5167230.4244,
+              "MktRate": 200.14,
+              "PortFolio_Per": 0.41,
+              "Actions": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ClntCode": "P1005",
+      "Clientname": "Rajesh",
+      "Folio": "10199981975",
+      "PurchasedVale": 5403243.74,
+      "CurrentValue": 8056614.77,
+      "GainLoss": 8056614.77,
+      "GainLoss_Per": 49.11,
+      "Portfolio": 13.61,
+      "button": "",
+      "SchemeDetails": [
+        {
+          "StockCode": 12345,
+          "SchemeName": "Aditya Birla Balanced",
+          "Folio": "-",
+          "Qty_Units": "34930.84",
+          "Value": 25000,
+          "Rate": 71.57,
+          "MktVal": 2410749.25,
+          "MktRate": 71.84,
+          "PortFolio_Per": 4.1,
+          "Actions": "",
+          "SubDetails": [
+            {
+              "ClntName": "Anvit Mandar Rahul",
+              "IIN": "5011221066 | Single",
+              "Folio": "1019981975",
+              "Qty": 1290.08,
+              "Value": 600000,
+              "Rate": 46.51,
+              "MktVal": 115839.74,
+              "MktRate": 82.92,
+              "PortFolio_Per": 1.01,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Rajkumar Individual",
+              "IIN": "5011221066 | Single",
+              "Folio": "22204206",
+              "Qty": 5553.72,
+              "Value": 277947.08,
+              "Rate": 50.06,
+              "MktVal": 498681.58,
+              "MktRate": 89.79,
+              "PortFolio_Per": 0.81,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Yadnya Mandar Bagul",
+              "IIN": "5011221066 | Single",
+              "Folio": "29981922",
+              "Qty": 25821.95,
+              "Value": 50786113.13,
+              "Rate": 196.67,
+              "MktVal": 5167230.4244,
+              "MktRate": 200.14,
+              "PortFolio_Per": 0.41,
+              "Actions": ""
+            }
+          ]
+        },
+        {
+          "StockCode": 123,
+          "SchemeName": "Aditya Birla Balanced SunLife",
+          "Folio": "-",
+          "Qty_Units": "221.84",
+          "Value": 2121,
+          "Rate": 212.57,
+          "MktVal": 21212.25,
+          "MktRate": 3232.84,
+          "PortFolio_Per": 2.13,
+          "Actions": "",
+          "SubDetails": [
+            {
+              "ClntName": "Anvit Mandar Rahul",
+              "IIN": "5011221066 | Single",
+              "Folio": "1019981975",
+              "Qty": 1290.08,
+              "Value": 600000,
+              "Rate": 46.51,
+              "MktVal": 115839.74,
+              "MktRate": 82.92,
+              "PortFolio_Per": 1.01,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Rajkumar Individual",
+              "IIN": "5011221066 | Single",
+              "Folio": "22204206",
+              "Qty": 5553.72,
+              "Value": 277947.08,
+              "Rate": 50.06,
+              "MktVal": 498681.58,
+              "MktRate": 89.79,
+              "PortFolio_Per": 0.81,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Yadnya Mandar Bagul",
+              "IIN": "5011221066 | Single",
+              "Folio": "29981922",
+              "Qty": 25821.95,
+              "Value": 50786113.13,
+              "Rate": 196.67,
+              "MktVal": 5167230.4244,
+              "MktRate": 200.14,
+              "PortFolio_Per": 0.41,
+              "Actions": ""
+            }
+          ]
+        },
+        {
+          "StockCode": 1123,
+          "SchemeName": "Birla Balanced",
+          "Folio": "-",
+          "Qty_Units": "33213.84",
+          "Value": 45678,
+          "Rate": 87.57,
+          "MktVal": 2410749.25,
+          "MktRate": 71.84,
+          "PortFolio_Per": 4.1,
+          "Actions": "",
+          "SubDetails": [
+            {
+              "ClntName": "Anvit Mandar Rahul",
+              "IIN": "5011221066 | Single",
+              "Folio": "1019981975",
+              "Qty": 1290.08,
+              "Value": 600000,
+              "Rate": 46.51,
+              "MktVal": 115839.74,
+              "MktRate": 82.92,
+              "PortFolio_Per": 1.01,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Rajkumar Individual",
+              "IIN": "5011221066 | Single",
+              "Folio": "22204206",
+              "Qty": 5553.72,
+              "Value": 277947.08,
+              "Rate": 50.06,
+              "MktVal": 498681.58,
+              "MktRate": 89.79,
+              "PortFolio_Per": 0.81,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Yadnya Mandar Bagul",
+              "IIN": "5011221066 | Single",
+              "Folio": "29981922",
+              "Qty": 25821.95,
+              "Value": 50786113.13,
+              "Rate": 196.67,
+              "MktVal": 5167230.4244,
+              "MktRate": 200.14,
+              "PortFolio_Per": 0.41,
+              "Actions": ""
+            }
+          ]
+        },
+        {
+          "StockCode": 5645,
+          "SchemeName": "Raj Birla Balanced",
+          "Folio": "-",
+          "Qty_Units": "231323.84",
+          "Value": 14563,
+          "Rate": 145.57,
+          "MktVal": 5679.25,
+          "MktRate": 71.84,
+          "PortFolio_Per": 12.1,
+          "Actions": "",
+          "SubDetails": [
+            {
+              "ClntName": "Anvit Mandar Rahul",
+              "IIN": "5011221066 | Single",
+              "Folio": "1019981975",
+              "Qty": 1290.08,
+              "Value": 600000,
+              "Rate": 46.51,
+              "MktVal": 115839.74,
+              "MktRate": 82.92,
+              "PortFolio_Per": 1.01,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Rajkumar Individual",
+              "IIN": "5011221066 | Single",
+              "Folio": "22204206",
+              "Qty": 5553.72,
+              "Value": 277947.08,
+              "Rate": 50.06,
+              "MktVal": 498681.58,
+              "MktRate": 89.79,
+              "PortFolio_Per": 0.81,
+              "Actions": ""
+            },
+            {
+              "ClntName": "Yadnya Mandar Bagul",
+              "IIN": "5011221066 | Single",
+              "Folio": "29981922",
+              "Qty": 25821.95,
+              "Value": 50786113.13,
+              "Rate": 196.67,
+              "MktVal": 5167230.4244,
+              "MktRate": 200.14,
+              "PortFolio_Per": 0.41,
+              "Actions": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
